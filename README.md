@@ -12,6 +12,6 @@ Runnig Tests:
 
 Notes:
 
-1. The project uses sqlite db becuase the purpose of this project is for demo/assignment and it sqldb requires not additional setup requirements.
+1. The project uses sqlite db becuase the purpose of this project is for demo/assignment and sqlite db requires no additional setup.
 2. The default limit/pagesize of list is set to 5. The spec document of the assignment has two default values of a list and it was confusing. So I kept it 5.
 3. There are no authencation/authorization on REST endpoint because it was not mentioned in spec document.
